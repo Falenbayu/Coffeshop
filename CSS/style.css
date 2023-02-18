@@ -41,7 +41,7 @@ body{
     font-style: italic;
 }
 
-.navbar.navbar-logo span{
+.navbar .navbar-logo span{
     color: var(--primary);
 
 }
