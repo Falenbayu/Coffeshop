@@ -1,8 +1,7 @@
 //toggle class active
-const navbarNav = document.querySelector
-('.navbar-nav');
+const navbarNav = document.querySelector('.navbar-nav');
+
 //ketika menu di klik
-document.querySelector('#hamburger-menu').
-onClick = () => {
-     navbarNav.classList.toggle('active');
-};
+document.querySelector('#hamburger-menu').onClick = () => {
+    navbarNav.classList.toggle('active')
+}
