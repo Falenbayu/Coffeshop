@@ -149,7 +149,7 @@ body{
 
 /*about*/
 .about,
-.menu
+.menu,
 .contact {
     padding: 8rem 7% 1.4rem;
 }
@@ -198,7 +198,7 @@ body{
 }
 
 /*Menu section*/
-.menu h2
+.menu h2,
 .contact h2 {
     margin-bottom: 1rem;
 }
