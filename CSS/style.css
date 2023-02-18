@@ -116,7 +116,14 @@ body{
 
     .navbar .navbar-nav.active{
         right: 0%;
-        background-color: #fff;
+    }
+
+    .navbar .navbar-nav a{
+        color: var(--bg);
+        display: block;
+        margin: 1.5rem;
+        padding: 0.5rem;
+        font-size: 2rem;
     }
 }
 
