@@ -99,6 +99,10 @@ body{
     html {
         font-size: 62.5%;
     }
+
+    #humburger-menu{
+        display: inline-block;
+    }
 }
 
 /*Mobile Phone*/
