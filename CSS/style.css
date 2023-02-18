@@ -18,3 +18,11 @@ body{
     background-color: var(--bg);
     color: #fff;
 }
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.4rem 7%;
+}
