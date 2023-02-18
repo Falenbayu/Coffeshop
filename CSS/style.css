@@ -82,3 +82,28 @@ body{
 #hamburger-menu{
     display: none;
 }
+
+
+
+/*Media Queries*/
+
+/*Laptop*/
+@media screen(max-width: 1366px){
+    html {
+        font-size: 75%;
+    }
+}
+
+/*Tablet*/
+@media screen(max-width: 7s8px){
+    html {
+        font-size: 62.5%;
+    }
+}
+
+/*Mobile Phone*/
+@media screen(max-width: 450px){
+    html {
+        font-size: 55%;
+    }
+}
